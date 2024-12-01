@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Rosale's blog # the main title
+title: Rosalie's blog # the main title
 
 tagline: keep calm and carry on # it will display as the sub-title
 
@@ -27,9 +27,6 @@ url: "https://RosalynHUANG.github.io"
 
 github:
   username: RosalynHUANG # change to your github username
-
-twitter:
-  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -85,7 +82,7 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:  [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
