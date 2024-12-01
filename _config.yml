@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Rosalyn's cat # the main title
+title: Rosale's blog # the main title
 
 tagline: keep calm and carry on # it will display as the sub-title
 
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: rosalyn
-  email: example@domain.com # change to your email address
+  email: rosaylnaaaa@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/RosalynHUANG # change to your github homepage
@@ -85,7 +85,7 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode:  [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
