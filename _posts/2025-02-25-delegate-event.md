@@ -34,7 +34,7 @@ public event EventHandler ThresholdReached;
 protected virtual void OnThresholdReached(EventArgs e)
     {
         EventHandler handler = ThresholdReached;
-        handler?.Invoke(this, e);       \\ 触发事件
+        handler?.Invoke(this, e);       // 触发事件
     }
 ```
 .NET 提供了 EventHandler 和 EventHandler<TEventArgs> 委托来支持大部分事件场景
